@@ -1,0 +1,121 @@
+---
+title: "Unit Homework, Extreme Values: Solutions"
+author: "Your Name (NetID)"
+format:
+  typst:
+    papersize: us-letter
+    margin:
+      x: 1in
+      y: 1in
+---
+
+<!--
+A starting point for your write-up; using it is optional. Write each answer under its heading, then
+make the PDF for Gradescope with
+
+    quarto render solution.qmd
+
+which writes solution.pdf (no LaTeX needed). Each problem starts on a new page, so tagging pages in
+Gradescope is quick.
+
+Code: add cells in the language you are using, ```{julia}, ```{python} or ```{r}, one language
+per file, and add the matching lines to the header above (after the `format` block):
+
+  Julia (runs Julia 1.12.5 with the repository's environment):
+    engine: julia
+    julia:
+      exeflags: ["+1.12.5"]
+
+  Python (needs Jupyter: `pip install jupyter`):
+    jupyter: python3
+
+  R (needs knitr and rmarkdown: `install.packages(c("knitr", "rmarkdown"))`):
+    engine: knitr
+
+Use only one of these. If you switch languages, delete the old lines first.
+
+Handwritten work: photograph or scan the page (JPG or PNG), save it in this folder, and include it
+under the matching heading with a line like
+
+    ![](p1a.jpg){width=100%}
+
+Check that the writing is legible in the PDF before you submit.
+-->
+
+## Problem 1: The record and the theorem's conditions
+
+### 1(a)
+
+
+### 1(b)
+
+
+### 1(c)
+
+
+{{< pagebreak >}}
+
+## Problem 2: A GEV and a design discharge
+
+### 2(a)
+
+
+### 2(b)
+
+
+### 2(c)
+
+
+### 2(d)
+
+
+### 2(e)
+
+
+{{< pagebreak >}}
+
+## Problem 3: Peaks over a threshold
+
+### 3(a)
+
+
+### 3(b)
+
+
+### 3(c)
+
+
+### 3(d)
+
+
+### 3(e)
+
+
+{{< pagebreak >}}
+
+## Problem 4: A trend in the location
+
+### 4(a)
+
+
+### 4(b)
+
+
+### 4(c)
+
+
+### 4(d)
+
+
+{{< pagebreak >}}
+
+## Problem 5: Forty years, with a prior
+
+### 5(a)
+
+
+### 5(b)
+
+
+### 5(c)
+
